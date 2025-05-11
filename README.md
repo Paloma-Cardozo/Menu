@@ -25,8 +25,8 @@ Here is a preview of my solution: ![](./ScreenshotMenu.png)
 
 ### Links
 
-- **Live Site URL on GitHub**: (https://paloma-cardozo.github.io/menu/)
-- **Repository URL**: (https://github.com/Paloma-Cardozo/menu)
+- **Live Site URL on GitHub**: (https://paloma-cardozo.github.io/Menu/)
+- **Repository URL**: (https://github.com/Paloma-Cardozo/Menu)
 
 ## My process
 
