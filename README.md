@@ -21,7 +21,7 @@ The project helped me reinforce structure, alignment, and spacing using modern l
 
 ### Screenshot
 
-Here is a preview of my solution: ![](./MyPreview.png)
+Here is a preview of my solution: ![](./ScreenshotMenu.png)
 
 ### Links
 
